@@ -1,7 +1,5 @@
 <h1 align="center">🍀Peace Be Upon You 🌺 Here is Tanvir Abdullah Toha🎴</h1>
 
-<h3 align="center">A 🕌 Muslim 🌙 With a passion for 🌹 Web development 💜</h3>
-
 - 🌱 I’m currently learning **WordPress, https://shikhun.net/courses/wordpress-support-happiness-enginner/**
 
 - 👯 I’m looking to collaborate on **Site Building**

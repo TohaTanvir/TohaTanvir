@@ -17,6 +17,18 @@ I am a highly skilled and motivated Full Stack Web Developer with expertise in W
 - **Database**                     : MySQL, MongoDB, MariaDB
 - **Version Control**              : Git, GitHub, Bitbucket
 - **Testing**                      : Jasmine, Mocha, Chai
+- **Build Tools**                  : Webpack, Grunt, Gulp
+- **DevOps**                       : Docker, Kubernetes
+- **Cloud Platforms**              : Amazon Web Services (AWS), Google Cloud, Microsoft Azure
+- **Operating Systems**            : Windows, Linux, macOS
+- **Web Servers**                  : Apache, Nginx
+- **API**                          : REST, GraphQL
+- **UI/UX Design**                 : Figma, Sketch
+- **Project Management**           : Trello
+- **Agile Methodologies**          : Scrum, Kanban
+- **Quality Assurance**            : Selenium, Cypress
+- **Accounting Software**          : QuickBooks, Tally, SAP
+- **Office Software**              : Google Suite, Microsoft Office, Dropbox, Zoom
 - **Package Managers**             : npm, Yarn
 - **Front-End Tools**              : Visual Studio Code
 - **Integrated Dev Environment**   : PHPStorm, XAMPP, WAMP
@@ -69,6 +81,17 @@ I am a highly skilled and motivated Full Stack Web Developer with expertise in W
 
 10. I enjoy teaching and mentoring aspiring developers, as it helps me reinforce my own understanding of concepts and give back to the developer community.
 
+
+<br>
+<br>
+
+<img src="https://as2.ftcdn.net/v2/jpg/05/66/10/17/1000_F_566101708_M9LeoEpgBCqEU8kaA2MVP5iQastY2WMH.jpg" width="100%">
+
+<br> 
+<br>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
+<b> Technological Foundation</b>
+
 <p align="center">
     <a href="https://github.com/TohaTanvir/github-readme-activity-graph#gh-dark-mode-only"></a>
 </p>
@@ -78,57 +101,8 @@ I am a highly skilled and motivated Full Stack Web Developer with expertise in W
     <img src="https://komarev.com/ghpvc/?username=TohaTanvir" alt = "profile views count" />
 </a>
 
-<br>
-<br>
-
-<img src="https://as2.ftcdn.net/v2/jpg/05/66/10/17/1000_F_566101708_M9LeoEpgBCqEU8kaA2MVP5iQastY2WMH.jpg" width="100%">
-
-<br> 
-<br>
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Technological Foundation</b>
 <p>
-- <details> <summary>List of badges</summary>
-     - [Artificial Intelligence and Bots](#-artificial-intelligence-and-bots)
-| Name             | Badge                                                                                                                                   | Markdown                                                                                                                                  |
-| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-    | ChatGPT       | ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)                       | `![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)`
-     - [Blog](#-blog)
-| Name       | Badge                                                                                                             | Markdown                                                                                                            |
-| ---------- | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-     - [Browsers](#-browsers)
-     - [CD](#-cd)
-     - [CI](#-ci)
-     - [Cloud Storage](#-cloud-storage)
-     - [Databases](#-databases)
-     - [Design](#-design)
-     - [Developer/Forums](#-developerforums)
-     - [Documentation Platforms](#-documentation-platforms)
-     - [Education](#-education)
-     - [Funding](#-funding)
-     - [Frameworks, Platforms and Libraries](#-frameworks-platforms-and-libraries)
-     - [Gaming](#-gaming)
-     - [Game Consoles](#%EF%B8%8F-game-consoles)
-     - [Hosting/SaaS](#-hostingsaas)
-     - [IDEs/Editors](#-ideseditors)
-     - [Languages](#-languages)
-     - [ML/DL](#%EF%B8%8F-mldl)
-     - [Music](#-music)
-     - [Office](#-office)
-     - [Operating System](#%EF%B8%8F-operating-system)
-     - [ORM](#-orm)
-     - [Other](#-other)
-     - [Quantum Programming Frameworks and Libraries](#quantum-programming-frameworks-and-libraries)
-     - [Search Engines](#search-engines)
-     - [Servers](#servers)
-     - [Smartphone Brands](#smartphone-brands)
-     - [Social](#social)
-     - [Store](#store)
-     - [Streaming](#streaming)
-     - [Testing](#testing)
-     - [Version Control](#version-control)
-     - [Wearables](#wearables)
-     - [Work/Jobs](#workjobs)
-   </details>
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -140,7 +114,7 @@ I am a highly skilled and motivated Full Stack Web Developer with expertise in W
  
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/TohaTanvir" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TohaTanvir&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=ffffff&bg_color=312e81&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </p>
 
@@ -178,12 +152,9 @@ https://github-profile-trophy.vercel.app/?TohaTanvir=ryo-ma&margin-w=15
 <h2 align="center">🌐 Reach Me Out :</h2>
 <div align="center">
  
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/TohaTanvir) <br> <br>
-
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18117697/tohatanvir) <br> <br> 
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com//users/18117697/tohatanvir)  <br> <br>
-
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/TohaTanvir)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18117697/tohatanvir)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com//users/18117697/tohatanvir)
 [![Linkedin](https://img.shields.io/badge/Linkedin-%231877F2.svg?logo=Linkedin&logoColor=white)](https://linkedin.com/in//users/18117697/tohatanvir)
  
 </div>

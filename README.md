@@ -79,7 +79,7 @@
 
 ##
 
-<img src="https://as2.ftcdn.net/v2/jpg/05/66/10/17/1000_F_566101708_M9LeoEpgBCqEU8kaA2MVP5iQastY2WMH.jpg" width="100%">
+<img src="https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dGVjaHxlbnwwfHwwfHx8Mg%3D%3D&auto=format&fit=crop&w=500&q=60" width="100%">
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 <b> Technological Foundation</b>
 
@@ -196,8 +196,8 @@
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 </p>
 <div></div>
-<p align="center">
-  <a href="https://github.com/TohaTanvir" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TohaTanvir&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=ffffff&bg_color=312e81&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<img src="https://images.unsplash.com/photo-1488229297570-58520851e868?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=869&q=80" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TohaTanvir&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=ffffff&bg_color=312e81&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </p>
 
 <br> <br>

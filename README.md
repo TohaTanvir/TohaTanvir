@@ -226,7 +226,6 @@ If you have any questions or would like to connect, **feel free to reach out.** 
 <h2 align="center"> 
     
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/tohatanvir)
-
 [![Linkedin](https://img.shields.io/badge/Linkedin-%231877F2.svg?logo=Linkedin&logoColor=white)](https://linkedin.com/in//users/18117697/tohatanvir)
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@tohatanvir)

@@ -10,28 +10,32 @@ I am a highly skilled and motivated Full Stack Web Developer with expertise in W
 
 ## Skills
 
-- **Languages**: HTML, CSS, JavaScript, PHP, SQL
-- **Front-End Development**: React, jQuery, Bootstrap
-- **Back-End Development**: Node.js, Laravel, Django
-- **Frameworks**: WordPress, Bootstrap
-- **Content Management System (CMS):**: WordPress, Shopify
-- **Database**: MySQL, MongoDB, MariaDB
-- **Version Control**: Git, GitHub
-- **Front-End Tools**: Visual Studio Code
-- **Back-End Tools**: PHPStorm, XAMPP/WAMP
-- **Operating Systems**: Windows, Linux
-- **Web Servers**: Apache, Nginx
+- **Programming Languages**        : HTML, CSS, JavaScript, PHP, SQL
+- **Front-End Development**        : React, jQuery, Bootstrap
+- **Back-End Development**         : Node.js, Laravel, Django
+- **Content Management System:**   : WordPress, Shopify
+- **Database**                     : MySQL, MongoDB, MariaDB
+- **Version Control**              : Git, GitHub, Bitbucket
+- **Testing**                      : Jasmine, Mocha, Chai
+- **Package Managers**             : npm, Yarn
+- **Front-End Tools**              : Visual Studio Code
+- **Integrated Dev Environment**   : PHPStorm, XAMPP, WAMP
+- **Operating Systems**            : Windows, Linux, MacOS
+- **Web Servers**                  : Apache, Nginx
 
 ## Experience
-- WordPress Support Engineer at XYZ Company (2020-Present)
+- **WordPress Support Engineer** (2020-Present)
     - Providing technical support to clients for WordPress websites, themes, and plugins.
     - Troubleshooting and resolving website issues related to performance, security, and functionality.
     - Collaborating with cross-functional teams to deliver high-quality web solutions.
-- Freelance web development projects (2018-2020)
-    - Successfully completed various web development projects for clients, including custom WordPress themes, e-commerce websites, and responsive designs.
+- **Freelance web development projects** (2018-2020)
+    - Successfully completed various web development projects for clients, including custom WordPress themes, e-commerce           websites, and responsive designs.
     - Implemented SEO strategies to improve website rankings and boost organic traffic.
     - Developed and maintained WordPress plugins for extended functionality.
-    - As a mid-level developer, I have a strong foundation in web development and programming languages such as HTML, CSS,         JavaScript, PHP, and SQL. I am proficient in front-end development using frameworks like React, jQuery, and Bootstrap.       I also have experience with back-end development using Node.js, Laravel, and Django.
+  -**As a mid-level developer** (Present)
+    - I have a strong foundation in web development and programming languages such as HTML, CSS, JavaScript, PHP, and SQL.
+    - I am proficient in front-end development using frameworks like React, jQuery, and Bootstrap.
+    - I also have experience with back-end development using Node.js, Laravel, and Django.
     - In terms of database management, I am skilled in working with MySQL, MongoDB, and MariaDB. I have also worked with            content management systems, particularly WordPress, to build and manage websites.
     - I am familiar with version control systems like Git and GitHub, and have used testing tools like Jasmine, Mocha, and         Chai to ensure the quality and functionality of my code. I am experienced in using package managers like npm and Yarn,       as well as build tools like Webpack, Grunt, and Gulp.
     - When it comes to deployment and infrastructure, I am knowledgeable in using Docker and Kubernetes for containerization       and orchestration. I have also worked with cloud platforms such as AWS, Google Cloud, and Azure to deploy and                maintain applications.
@@ -83,7 +87,48 @@ I am a highly skilled and motivated Full Stack Web Developer with expertise in W
 <br>
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Technological Foundation</b>
 <p>
-
+- <details> <summary>List of badges</summary>
+     - [Artificial Intelligence and Bots](#-artificial-intelligence-and-bots)
+| Name             | Badge                                                                                                                                   | Markdown                                                                                                                                  |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+    | ChatGPT       | ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)                       | `![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)`
+     - [Blog](#-blog)
+| Name       | Badge                                                                                                             | Markdown                                                                                                            |
+| ---------- | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+     - [Browsers](#-browsers)
+     - [CD](#-cd)
+     - [CI](#-ci)
+     - [Cloud Storage](#-cloud-storage)
+     - [Databases](#-databases)
+     - [Design](#-design)
+     - [Developer/Forums](#-developerforums)
+     - [Documentation Platforms](#-documentation-platforms)
+     - [Education](#-education)
+     - [Funding](#-funding)
+     - [Frameworks, Platforms and Libraries](#-frameworks-platforms-and-libraries)
+     - [Gaming](#-gaming)
+     - [Game Consoles](#%EF%B8%8F-game-consoles)
+     - [Hosting/SaaS](#-hostingsaas)
+     - [IDEs/Editors](#-ideseditors)
+     - [Languages](#-languages)
+     - [ML/DL](#%EF%B8%8F-mldl)
+     - [Music](#-music)
+     - [Office](#-office)
+     - [Operating System](#%EF%B8%8F-operating-system)
+     - [ORM](#-orm)
+     - [Other](#-other)
+     - [Quantum Programming Frameworks and Libraries](#quantum-programming-frameworks-and-libraries)
+     - [Search Engines](#search-engines)
+     - [Servers](#servers)
+     - [Smartphone Brands](#smartphone-brands)
+     - [Social](#social)
+     - [Store](#store)
+     - [Streaming](#streaming)
+     - [Testing](#testing)
+     - [Version Control](#version-control)
+     - [Wearables](#wearables)
+     - [Work/Jobs](#workjobs)
+   </details>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -96,7 +141,7 @@ I am a highly skilled and motivated Full Stack Web Developer with expertise in W
 </p>
 
 <p align="left">
-  <a href="https://github.com/constobidullah" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TohaTanvir&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=ffffff&bg_color=312e81&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  <a href="https://github.com/TohaTanvir" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TohaTanvir&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=ffffff&bg_color=312e81&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </p>
 
 <br> <br>
@@ -125,32 +170,27 @@ I am a highly skilled and motivated Full Stack Web Developer with expertise in W
 </p>
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=TohaTanvir&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Repo,PR">
+    Available value: number type
+Default: margin-w=0
+https://github-profile-trophy.vercel.app/?TohaTanvir=ryo-ma&margin-w=15
 </p>
 
-<h2 align="center">Daily Dev Card</h2>
-<p align="center"> 
- <a href="https://app.daily.dev/TohaTanvir"><img src="https://api.daily.dev/devcards/9df424382041423db3f5053a7922ac09.png?r=xe2" width="50%" alt="TohaTanvir's Dev Card"/></a>
-<br>
- <br>
-
- <h2 align="center">🌐 Reach Me Out :</h2>
+<h2 align="center">🌐 Reach Me Out :</h2>
 <div align="center">
  
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/TohaTanvir) <br> <br>
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18117697/tohatanvir)
-[![Dribble](https://img.shields.io/badge/Dribble-%237289DA.svg?logo=dribble&logoColor=white)](https://dribbble.com/constobidullah) <br> <br> 
- 
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/constobidullah)
+
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18117697/tohatanvir) <br> <br> 
+
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com//users/18117697/tohatanvir)  <br> <br>
+
 [![Linkedin](https://img.shields.io/badge/Linkedin-%231877F2.svg?logo=Linkedin&logoColor=white)](https://linkedin.com/in//users/18117697/tohatanvir)
  
 </div>
 
 </p>
-
-
-
 <img src='https://svgshare.com/i/tFo.svg' title='' />
 
-## Thank you visitor for My Github profile visit🥰
+## Thank you for visiting my GitHub profile.
+    I appreciate your interest and support.
+    If you have any questions or would like to connect, feel free to reach out. 🥰

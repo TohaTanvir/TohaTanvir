@@ -1,6 +1,7 @@
-<img src="https://github.com/TohaTanvir/TohaTanvir/blob/main/Tanvir%20Abdullah%20Toha.mp4" width="100%">
+![Tanvir Abdullah Toha](https://github.com/TohaTanvir/TohaTanvir/raw/main/Tanvir%20Abdullah%20Toha.gif)
 
-<img src="https://github.com/TohaTanvir/TohaTanvir/blob/main/git_tohatanvir.jpg" width="100%">
+
+
 
 <h1 align="center"> Hello there! "Assalamu Alaikum", which means "Peace be upon you" in Arabic. </h1>
 <h2 align="center"> I am **Tanvir Abdullah Toha** <br>
@@ -80,8 +81,8 @@
 10. I enjoy teaching and mentoring aspiring developers, as it helps me reinforce my own understanding of concepts and give back to the developer community.
 
 ##
+![Tanvir Abdullah Toha](https://github.com/TohaTanvir/TohaTanvir/raw/main/Tanvir%20Abdullah%20toha%20(1).jpg)
 
-<img src="https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dGVjaHxlbnwwfHwwfHx8Mg%3D%3D&auto=format&fit=crop&w=500&q=60" width="100%">
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 <b> Technological Foundation</b>
 
@@ -198,7 +199,9 @@
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 </p>
 <div></div>
-<img src="https://images.unsplash.com/photo-1488229297570-58520851e868?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=869&q=80" width="50%">
+
+
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TohaTanvir&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=ffffff&bg_color=312e81&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </p>
 

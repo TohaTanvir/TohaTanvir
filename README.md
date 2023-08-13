@@ -143,7 +143,7 @@ I am a highly skilled and motivated Full Stack Web Developer with expertise in W
 <p align="center">
     Available value: number type
     Default: margin-w=0
-    https://github-profile-trophy.vercel.app/?TohaTanvir=ryo-ma&margin-w=15
+    <a href="https://github-profile-trophy.vercel.app/?TohaTanvir=ryo-ma&margin-w=15"></a>
 </p>
 
 <h2 align="center">🌐 Reach Me Out :</h2>

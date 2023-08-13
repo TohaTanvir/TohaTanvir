@@ -85,7 +85,7 @@ I am a highly skilled and motivated Full Stack Web Developer with expertise in W
 <br>
 <br>
 
-<img src="https://as2.ftcdn.net/v2/jpg/05/66/10/17/1000_F_566101708_M9LeoEpgBCqEU8kaA2MVP5iQastY2WMH.jpg" width="100%">
+<img src="(https://images.unsplash.com/photo-1511376777868-611b54f68947?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80)" width="100%">
 
 <br> 
 <br>
@@ -129,7 +129,7 @@ I am a highly skilled and motivated Full Stack Web Developer with expertise in W
 
 <br> <br>
 
-<h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">MY GITHUB STARS</h2>
+<h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">MY GITHUB STATUSS</h2>
 
 <p align="center">
     

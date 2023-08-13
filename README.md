@@ -1,23 +1,144 @@
-<h1 align="center">🍀Peace Be Upon You 🌺 Here is Tanvir Abdullah Toha🎴</h1>
 
-- 🌱 I’m currently learning **WordPress, https://shikhun.net/courses/wordpress-support-happiness-enginner/**
 
-- 👯 I’m looking to collaborate on **Site Building**
+<img src="https://c1.wallpaperflare.com/preview/325/617/134/computer-keyboard-apple-electronics.jpg" width="100%">
 
-- 🏛️ All of my projects are available at [https://github.com/TohaTanvir?tab=repositories](https://github.com/TohaTanvir?tab=repositories)
+<h1 align="center"> Hello there! As a Muslim full stack web developer, I greet you with "Assalamu Alaikum", which means "Peace be upon you" in Arabic. </h1>
+<h2 align="center">  # Tanvir Abdullah Toha - Full Stack Web Developer
 
-- 📫 How to reach me **rpp.toha.mkt@gmail.com**
+## About Me
+I am a highly skilled and motivated Full Stack Web Developer with expertise in WordPress development. I have strong problem-solving skills and a deep understanding of web development technologies. With my attention to detail and passion for creating efficient and user-friendly web solutions, I strive to deliver high-quality work that meets the client's expectations.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/https://codepen.io/tohatanvir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/tohatanvir" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tohatanvir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tohatanvir" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18117697" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18117697" height="30" width="40" /></a>
-<a href="https://fb.com/tanvirabdullahtoha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tanvirabdullahtoha" height="30" width="40" /></a>
-<a href="https://hashnode.com/@thinkingdeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@thinkingdeep" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/tohatanvir?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tohatanvir?hr_r=1" height="30" width="40" /></a>
-<a href="https://discord.gg/8207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="8207" height="30" width="40" /></a>
+## Skills
+
+- **Languages**: HTML, CSS, JavaScript, PHP
+- **Frameworks**: WordPress, Bootstrap
+- **CMS**: WordPress, Shopify
+- **Database**: MySQL
+- **Version Control**: Git, GitHub
+- **Front-End Tools**: Visual Studio Code, Sublime Text, Photoshop
+- **Back-End Tools**: PHPStorm, XAMPP/WAMP
+- **Operating Systems**: Windows, Linux
+- **Web Servers**: Apache, Nginx
+
+## Experience
+- WordPress Support Engineer at XYZ Company (2020-Present)
+    - Providing technical support to clients for WordPress websites, themes, and plugins.
+    - Troubleshooting and resolving website issues related to performance, security, and functionality.
+    - Collaborating with cross-functional teams to deliver high-quality web solutions.
+- Freelance web development projects (2018-2020)
+    - Successfully completed various web development projects for clients, including custom WordPress themes, e-commerce websites, and responsive designs.
+    - Implemented SEO strategies to improve website rankings and boost organic traffic.
+    - Developed and maintained WordPress plugins for extended functionality./h2>
+
+<br>
+
+## Some Information 
+1. I continuously practice coding and programming in various languages to stay up to date with the latest technologies and sharpen my coding skills.
+
+2. I enjoy creating websites and experimenting with different technologies, frameworks, and design principles to improve my web development skills.
+
+3. I actively engage in activities like solving puzzles, playing chess, and participating in brain-teaser challenges to improve my problem-solving skills.
+
+4. I contribute to open-source projects on platforms like GitHub to gain real-world coding experience and improve my collaboration skills.
+
+5. I regularly read blogs, follow tech influencers, and attend webinars or conferences to stay updated with the latest trends in technology.
+
+6. I work on personal projects that showcase my skills and creativity, allowing me to explore new concepts and build a strong portfolio.
+
+7. I have an understanding of user interface (UI) and user experience (UX) design, and I consistently learn about design principles, experiment with prototypes, and study the latest UI/UX trends.
+
+8. I actively engage in activities like attending tech meetups, joining developer communities, and participating in online forums to network with other professionals, learn from their experiences, and gain new job opportunities.
+
+9. I automate repetitive tasks and learn scripting languages like PowerShell to enhance my productivity and efficiency as a full stack developer.
+
+10. I enjoy teaching and mentoring aspiring developers, as it helps me reinforce my own understanding of concepts and give back to the developer community.
+
+<p align="center">
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-dark-mode-only">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=constobidullah&theme=react-dark&area=true&hide_border=true#gh-light-mode-only" width="100%">
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+
+<a href="https://www.github.com/TohaTanvir" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/TohaTanvir?logo=github&style=for-the-badge&color=ffffff&labelColor=312e81" /></a>
+
+<a href="https://github.com/TohaTanvir">
+    <img src="https://komarev.com/ghpvc/?username=constobidullah" alt = "profile views count" />
+</a>
+
+<br> <br>
+
+<img src="https://as2.ftcdn.net/v2/jpg/05/66/10/17/1000_F_566101708_M9LeoEpgBCqEU8kaA2MVP5iQastY2WMH.jpg" width="100%">
+
+<br> 
+<br>
+
+
+ <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Technological Foundation</b>
+
+<p>
+ 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+ 
+</p>
+
+<p align="left">
+  <a href="https://github.com/constobidullah" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TohaTanvir&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=ffffff&bg_color=312e81&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</p>
+
+<br> <br>
+
+<h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">MY GITHUB STARS</h2>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TohaTanvir&theme=github_dark"/>
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TohaTanvir&theme=github_dark&utcOffset=8"/>
+</p>
+
+<p align="center">
+ <a href="http://www.github.com/TohaTanvir"><img src="https://github-readme-stats.vercel.app/api?username=constobidullah&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=ffffff&bg_color=312e81&hide_border=true&show_icons=true" alt="constobidullah's GitHub stats" /></a>
+
+  </p>
+
+<p align="center">
+<a href="http://www.github.com/TohaTanvir"><img src="https://github-readme-streak-stats.herokuapp.com/?user=constobidullah&stroke=ffffff&background=312e81&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+</p>
+
+<p align="center">
+            <img src="https://metrics.lecoq.io/TohaTanvir?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka">
+</p>
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=TohaTanvir&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Repo,PR">
+</p>
+
+<h2 align="center">Daily Dev Card</h2>
+<p align="center"> 
+ <a href="https://app.daily.dev/TohaTanvir"><img src="https://api.daily.dev/devcards/9df424382041423db3f5053a7922ac09.png?r=xe2" width="50%" alt="TohaTanvir's Dev Card"/></a>
+<br>
+ <br>
+
+ <h2 align="center">🌐 Reach Me Out :</h2>
+<div align="center">
+ 
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/TohaTanvir) <br> <br>
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18117697/tohatanvir)
+[![Dribble](https://img.shields.io/badge/Dribble-%237289DA.svg?logo=dribble&logoColor=white)](https://dribbble.com/constobidullah) <br> <br> 
+ 
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/constobidullah)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com//users/18117697/tohatanvir)  <br> <br>
+[![Linkedin](https://img.shields.io/badge/Linkedin-%231877F2.svg?logo=Linkedin&logoColor=white)](https://linkedin.com/in//users/18117697/tohatanvir)
+ 
+</div>
+
+</p>
+
+
+
+<img src='https://svgshare.com/i/tFo.svg' title='' />
+
+## Thank you visitor for My Github profile visit🥰

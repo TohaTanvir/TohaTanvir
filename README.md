@@ -10,12 +10,14 @@ I am a highly skilled and motivated Full Stack Web Developer with expertise in W
 
 ## Skills
 
-- **Languages**: HTML, CSS, JavaScript, PHP
+- **Languages**: HTML, CSS, JavaScript, PHP, SQL
+- **Front-End Development**: React, jQuery, Bootstrap
+- **Back-End Development**: Node.js, Laravel, Django
 - **Frameworks**: WordPress, Bootstrap
-- **CMS**: WordPress, Shopify
-- **Database**: MySQL
+- **Content Management System (CMS):**: WordPress, Shopify
+- **Database**: MySQL, MongoDB, MariaDB
 - **Version Control**: Git, GitHub
-- **Front-End Tools**: Visual Studio Code, Sublime Text, Photoshop
+- **Front-End Tools**: Visual Studio Code
 - **Back-End Tools**: PHPStorm, XAMPP/WAMP
 - **Operating Systems**: Windows, Linux
 - **Web Servers**: Apache, Nginx
@@ -28,7 +30,17 @@ I am a highly skilled and motivated Full Stack Web Developer with expertise in W
 - Freelance web development projects (2018-2020)
     - Successfully completed various web development projects for clients, including custom WordPress themes, e-commerce websites, and responsive designs.
     - Implemented SEO strategies to improve website rankings and boost organic traffic.
-    - Developed and maintained WordPress plugins for extended functionality.</h2>
+    - Developed and maintained WordPress plugins for extended functionality.
+    - As a mid-level developer, I have a strong foundation in web development and programming languages such as HTML, CSS,         JavaScript, PHP, and SQL. I am proficient in front-end development using frameworks like React, jQuery, and Bootstrap.       I also have experience with back-end development using Node.js, Laravel, and Django.
+    - In terms of database management, I am skilled in working with MySQL, MongoDB, and MariaDB. I have also worked with            content management systems, particularly WordPress, to build and manage websites.
+    - I am familiar with version control systems like Git and GitHub, and have used testing tools like Jasmine, Mocha, and         Chai to ensure the quality and functionality of my code. I am experienced in using package managers like npm and Yarn,       as well as build tools like Webpack, Grunt, and Gulp.
+    - When it comes to deployment and infrastructure, I am knowledgeable in using Docker and Kubernetes for containerization       and orchestration. I have also worked with cloud platforms such as AWS, Google Cloud, and Azure to deploy and                maintain applications.
+    - In terms of operating systems, I am comfortable working with Windows, Linux, and macOS. I have experience setting up         and configuring web servers such as Apache and Nginx.
+    - I have worked with REST and GraphQL APIs to integrate external services into applications. Additionally, I have a good       understanding of UI/UX design principles, and have used tools like Figma and Sketch to create visually appealing and         user-friendly interfaces.
+    - Throughout my career, I have collaborated with cross-functional teams using project management tools like Trello. I am       well-versed in Agile methodologies such as Scrum and Kanban, and have experience writing and executing test scripts          using tools like Selenium and Cypress for quality assurance.
+    - Outside of development, I have experience working with accounting software like QuickBooks, Tally, and SAP, as well as       proficiency in office software such as Google Suite, Microsoft Office, Dropbox, and Zoom.
+    - Overall, I am a versatile developer with a broad skill set and a passion for creating high-quality web applications. I       am eager to take on new challenges and continue to grow and learn in my career.
+</h2>
 
 <br>
 
@@ -54,31 +66,32 @@ I am a highly skilled and motivated Full Stack Web Developer with expertise in W
 10. I enjoy teaching and mentoring aspiring developers, as it helps me reinforce my own understanding of concepts and give back to the developer community.
 
 <p align="center">
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-dark-mode-only">
-</a>
+    <a href="https://github.com/TohaTanvir/github-readme-activity-graph#gh-dark-mode-only"></a>
 </p>
-
-
-<a href="https://www.github.com/TohaTanvir" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/TohaTanvir?logo=github&style=for-the-badge&color=ffffff&labelColor=312e81" /></a>
-
+<a href="https://www.github.com/TohaTanvir" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/github/followers/TohaTanvir?logo=github&style=for-the-badge&color=ffffff&labelColor=312e81" /></a>
 <a href="https://github.com/TohaTanvir">
-    <img src="https://komarev.com/ghpvc/?username=constobidullah" alt = "profile views count" />
+    <img src="https://komarev.com/ghpvc/?username=TohaTanvir" alt = "profile views count" />
 </a>
 
-<br> <br>
+<br>
+<br>
 
 <img src="https://as2.ftcdn.net/v2/jpg/05/66/10/17/1000_F_566101708_M9LeoEpgBCqEU8kaA2MVP5iQastY2WMH.jpg" width="100%">
 
 <br> 
 <br>
-
-
- <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Technological Foundation</b>
-
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Technological Foundation</b>
 <p>
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
  
 </p>
 
@@ -99,7 +112,7 @@ src="https://img.shields.io/github/followers/TohaTanvir?logo=github&style=for-th
 </p>
 
 <p align="center">
- <a href="http://www.github.com/TohaTanvir"><img src="https://github-readme-stats.vercel.app/api?username=constobidullah&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=ffffff&bg_color=312e81&hide_border=true&show_icons=true" alt="constobidullah's GitHub stats" /></a>
+ <a href="http://www.github.com/TohaTanvir"><img src="https://github-readme-stats.vercel.app/api?username=TohaTanvir&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=ffffff&bg_color=312e81&hide_border=true&show_icons=true" alt="TohaTanvir's GitHub stats" /></a>
 
   </p>
 

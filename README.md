@@ -1,13 +1,12 @@
 <img src="https://c1.wallpaperflare.com/preview/325/617/134/computer-keyboard-apple-electronics.jpg" width="100%">
 
 <h1 align="center"> Hello there! "Assalamu Alaikum", which means "Peace be upon you" in Arabic. </h1>
-<h2 align="center">  # "I am Tanvir Abdullah Toha, a proficient **Full Stack Web Developer**."
+<h2 align="center"> "I am **Tanvir** Abdullah **Toha**, a proficient **Full Stack Web Developer**."
 
 ## About Me
 I am a highly skilled and motivated Full Stack Web Developer with expertise in WordPress development. I have strong problem-solving skills and a deep understanding of web development technologies. With my attention to detail and passion for creating efficient and user-friendly web solutions, I strive to deliver high-quality work that meets the client's expectations.
 
 ## Skills
-
 - **Programming Languages**        : HTML, CSS, JavaScript, PHP, SQL
 - **Front-End Development**        : React, jQuery, Bootstrap
 - **Back-End Development**         : Node.js, Laravel, Django
@@ -38,7 +37,7 @@ I am a highly skilled and motivated Full Stack Web Developer with expertise in W
     - Providing technical support to clients for WordPress websites, themes, and plugins.
     - Troubleshooting and resolving website issues related to performance, security, and functionality.
     - Collaborating with cross-functional teams to deliver high-quality web solutions.
-- **Freelance web development projects** (2018-2020)
+- **Freelance web development projects** (2018-Present)
     - Successfully completed various web development projects for clients, including custom WordPress themes, e-commerce           websites, and responsive designs.
     - Implemented SEO strategies to improve website rankings and boost organic traffic.
     - Developed and maintained WordPress plugins for extended functionality.
@@ -81,12 +80,6 @@ I am a highly skilled and motivated Full Stack Web Developer with expertise in W
 <img src="https://as2.ftcdn.net/v2/jpg/05/66/10/17/1000_F_566101708_M9LeoEpgBCqEU8kaA2MVP5iQastY2WMH.jpg" width="100%">
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 <b> Technological Foundation</b>
-##
-
-
-
-
-
 
 ##
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -95,17 +88,16 @@ I am a highly skilled and motivated Full Stack Web Developer with expertise in W
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-
 ##
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-
 
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
-
+##
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ##
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
@@ -159,13 +151,7 @@ I am a highly skilled and motivated Full Stack Web Developer with expertise in W
 
 
 ##
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com//users/18117697/tohatanvir)
-[![Linkedin](https://img.shields.io/badge/Linkedin-%231877F2.svg?logo=Linkedin&logoColor=white)](https://linkedin.com/in//users/18117697/tohatanvir)
 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@tohatanvir)
-
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18117697/tohatanvir)
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/TohaTanvir)
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
@@ -201,8 +187,13 @@ I am a highly skilled and motivated Full Stack Web Developer with expertise in W
 ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
 ![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
 ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
-</p>
+![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 
+##
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
+</p>
+##
 <p align="center">
   <a href="https://github.com/TohaTanvir" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TohaTanvir&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=ffffff&bg_color=312e81&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </p>
@@ -236,6 +227,13 @@ If you have any questions or would like to connect, **feel free to reach out.** 
 ##
 **E-mail** : rpp.toha.mkt@gmail.com
 **Direct Message**: https://discord.com/channels/tohatanvir
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com//users/18117697/tohatanvir)
+[![Linkedin](https://img.shields.io/badge/Linkedin-%231877F2.svg?logo=Linkedin&logoColor=white)](https://linkedin.com/in//users/18117697/tohatanvir)
+
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@tohatanvir)
+
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18117697/tohatanvir)
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/TohaTanvir)
 ##
 <div align="center">  
 <img src="https://img.shields.io/github/followers/TohaTanvir?logo=github&style=for-the-badge&color=ffffff&labelColor=312e81" /></a>
@@ -243,4 +241,7 @@ If you have any questions or would like to connect, **feel free to reach out.** 
     <img src="https://komarev.com/ghpvc/?username=TohaTanvir" alt = "profile views count" />
 </a>
 </div>
+##
+**Buy Me a Coffee**
+![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
 ##

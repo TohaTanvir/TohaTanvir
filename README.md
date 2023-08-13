@@ -102,16 +102,25 @@ I am a highly skilled and motivated Full Stack Web Developer with expertise in W
 </a>
 
 <p>
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
- 
+    
+![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
+
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
- 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
+
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+
 </p>
 
 <p align="center">
@@ -123,20 +132,8 @@ I am a highly skilled and motivated Full Stack Web Developer with expertise in W
 <h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">MY GITHUB STARS</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TohaTanvir&theme=github_dark"/>
-</p>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TohaTanvir&theme=github_dark&utcOffset=8"/>
-</p>
-
-<p align="center">
- <a href="http://www.github.com/TohaTanvir"><img src="https://github-readme-stats.vercel.app/api?username=TohaTanvir&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=ffffff&bg_color=312e81&hide_border=true&show_icons=true" alt="TohaTanvir's GitHub stats" /></a>
-
-  </p>
-
-<p align="center">
-<a href="http://www.github.com/TohaTanvir"><img src="https://github-readme-streak-stats.herokuapp.com/?user=constobidullah&stroke=ffffff&background=312e81&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+    
+[![My user statistics](images/userstats.svg)](https://github.com/cicirello/user-statistician)
 </p>
 
 <p align="center">
@@ -145,8 +142,8 @@ I am a highly skilled and motivated Full Stack Web Developer with expertise in W
 
 <p align="center">
     Available value: number type
-Default: margin-w=0
-https://github-profile-trophy.vercel.app/?TohaTanvir=ryo-ma&margin-w=15
+    Default: margin-w=0
+    https://github-profile-trophy.vercel.app/?TohaTanvir=ryo-ma&margin-w=15
 </p>
 
 <h2 align="center">🌐 Reach Me Out :</h2>

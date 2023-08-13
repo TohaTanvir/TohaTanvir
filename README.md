@@ -232,8 +232,10 @@ I am a highly skilled and motivated Full Stack Web Developer with expertise in W
 ##
 ## Thank you for visiting my GitHub profile.
 I appreciate your interest and support.
-If you have any questions or would like to connect, feel free to reach out. 🥰
-
+If you have any questions or would like to connect, **feel free to reach out.** 🥰
+##
+**E-mail** : rpp.toha.mkt@gmail.com
+**Direct Message**: https://discord.com/channels/tohatanvir
 ##
 <div align="center">  
 <img src="https://img.shields.io/github/followers/TohaTanvir?logo=github&style=for-the-badge&color=ffffff&labelColor=312e81" /></a>

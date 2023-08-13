@@ -1,10 +1,11 @@
 <img src="https://c1.wallpaperflare.com/preview/325/617/134/computer-keyboard-apple-electronics.jpg" width="100%">
 
 <h1 align="center"> Hello there! "Assalamu Alaikum", which means "Peace be upon you" in Arabic. </h1>
-<h2 align="center"> "I am **Tanvir** Abdullah **Toha**, a proficient **Full Stack Web Developer**."
+<h2 align="center"> I am **Tanvir Abdullah Toha** <br>
+                         "Bringing ideas to life, from front to back." </h2>
 
 ## About Me
-I am a highly skilled and motivated Full Stack Web Developer with expertise in WordPress development. I have strong problem-solving skills and a deep understanding of web development technologies. With my attention to detail and passion for creating efficient and user-friendly web solutions, I strive to deliver high-quality work that meets the client's expectations.
+<h5 align="proper">I am a highly skilled and motivated Full Stack Web Developer with expertise in WordPress development. I have strong problem-solving skills and a deep understanding of web development technologies. With my attention to detail and passion for creating efficient and user-friendly web solutions, I strive to deliver high-quality work that meets the client's expectations.</h5>
 
 ## Skills
 - **Programming Languages**        : HTML, CSS, JavaScript, PHP, SQL
@@ -53,8 +54,9 @@ I am a highly skilled and motivated Full Stack Web Developer with expertise in W
     - Throughout my career, I have collaborated with cross-functional teams using project management tools like Trello. I am       well-versed in Agile methodologies such as Scrum and Kanban, and have experience writing and executing test scripts          using tools like Selenium and Cypress for quality assurance.
     - Outside of development, I have experience working with accounting software like QuickBooks, Tally, and SAP, as well as       proficiency in office software such as Google Suite, Microsoft Office, Dropbox, and Zoom.
     - Overall, I am a versatile developer with a broad skill set and a passion for creating high-quality web applications. I       am eager to take on new challenges and continue to grow and learn in my career.
-</h2>
-## Some Information 
+
+## Some Information
+
 1. I continuously practice coding and programming in various languages to stay up to date with the latest technologies and sharpen my coding skills.
 
 2. I enjoy creating websites and experimenting with different technologies, frameworks, and design principles to improve my web development skills.
@@ -125,7 +127,7 @@ I am a highly skilled and motivated Full Stack Web Developer with expertise in W
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-[Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 
@@ -156,7 +158,7 @@ I am a highly skilled and motivated Full Stack Web Developer with expertise in W
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
@@ -193,7 +195,7 @@ I am a highly skilled and motivated Full Stack Web Developer with expertise in W
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 </p>
-##
+<div></div>
 <p align="center">
   <a href="https://github.com/TohaTanvir" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TohaTanvir&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=ffffff&bg_color=312e81&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </p>
@@ -203,30 +205,26 @@ I am a highly skilled and motivated Full Stack Web Developer with expertise in W
 <h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">MY GITHUB STATUS</h2>
 
 <p align="center">
-            <img src="https://metrics.lecoq.io/TohaTanvir?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka">
+            <img src="https://metrics.lecoq.io/TohaTanvir?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia/Bangladesh/Dhaka ">
 </p>
-
-
-<h2 align="center">🌐 Reach Me Out :</h2>
-<div align="center">
- ##
-
-
-
-
-##
 </div>
 
 </p>
+<div align="center">
 <img src='https://svgshare.com/i/tFo.svg' title='' />
 
-##
-## Thank you for visiting my GitHub profile.
+
+**Thank you** for visiting my GitHub profile.
 I appreciate your interest and support.
 If you have any questions or would like to connect, **feel free to reach out.** 🥰
-##
-**E-mail** : rpp.toha.mkt@gmail.com
-**Direct Message**: https://discord.com/channels/tohatanvir
+
+<h1 align="center">🌐 Reach Me Out :</h2>
+
+**E-mail**             : rpp.toha.mkt@gmail.com <br>
+**Direct Message**     : https://discord.com/channels/tohatanvir
+
+<h2 align="center"> 
+    
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com//users/18117697/tohatanvir)
 [![Linkedin](https://img.shields.io/badge/Linkedin-%231877F2.svg?logo=Linkedin&logoColor=white)](https://linkedin.com/in//users/18117697/tohatanvir)
 
@@ -234,14 +232,16 @@ If you have any questions or would like to connect, **feel free to reach out.** 
 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18117697/tohatanvir)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/TohaTanvir)
-##
+</h2>
+</div>
+
 <div align="center">  
 <img src="https://img.shields.io/github/followers/TohaTanvir?logo=github&style=for-the-badge&color=ffffff&labelColor=312e81" /></a>
 <a href="https://github.com/TohaTanvir">
     <img src="https://komarev.com/ghpvc/?username=TohaTanvir" alt = "profile views count" />
 </a>
 </div>
-##
+
 **Buy Me a Coffee**
 ![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
-##
+

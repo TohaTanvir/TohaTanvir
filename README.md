@@ -2,8 +2,8 @@
 
 <img src="https://c1.wallpaperflare.com/preview/325/617/134/computer-keyboard-apple-electronics.jpg" width="100%">
 
-<h1 align="center"> Hello there! As a Muslim full stack web developer, I greet you with "Assalamu Alaikum", which means "Peace be upon you" in Arabic. </h1>
-<h2 align="center">  # Tanvir Abdullah Toha - Full Stack Web Developer
+<h1 align="center"> Hello there! "Assalamu Alaikum", which means "Peace be upon you" in Arabic. </h1>
+<h2 align="center">  # "I am Tanvir Abdullah Toha, a proficient **Full Stack Web Developer**."
 
 ## About Me
 I am a highly skilled and motivated Full Stack Web Developer with expertise in WordPress development. I have strong problem-solving skills and a deep understanding of web development technologies. With my attention to detail and passion for creating efficient and user-friendly web solutions, I strive to deliver high-quality work that meets the client's expectations.
@@ -28,7 +28,7 @@ I am a highly skilled and motivated Full Stack Web Developer with expertise in W
 - Freelance web development projects (2018-2020)
     - Successfully completed various web development projects for clients, including custom WordPress themes, e-commerce websites, and responsive designs.
     - Implemented SEO strategies to improve website rankings and boost organic traffic.
-    - Developed and maintained WordPress plugins for extended functionality./h2>
+    - Developed and maintained WordPress plugins for extended functionality.</h2>
 
 <br>
 
@@ -55,7 +55,6 @@ I am a highly skilled and motivated Full Stack Web Developer with expertise in W
 
 <p align="center">
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-dark-mode-only">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=constobidullah&theme=react-dark&area=true&hide_border=true#gh-light-mode-only" width="100%">
 </a>
 </p>
 

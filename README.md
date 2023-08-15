@@ -37,27 +37,72 @@
 - **Web Servers**                  : Apache, Nginx
 
 ## Experience
-- **WordPress Support Engineer** (2020-Present)
-    - Providing technical support to clients for WordPress websites, themes, and plugins.
-    - Troubleshooting and resolving website issues related to performance, security, and functionality.
-    - Collaborating with cross-functional teams to deliver high-quality web solutions.
-- **Freelance web development projects** (2018-Present)
-    - Successfully completed various web development projects for clients, including custom WordPress themes, e-commerce           websites, and responsive designs.
-    - Implemented SEO strategies to improve website rankings and boost organic traffic.
-    - Developed and maintained WordPress plugins for extended functionality.
-  -**As a mid-level developer** (Present)
-    - I have a strong foundation in web development and programming languages such as HTML, CSS, JavaScript, PHP, and SQL.
-    - I am proficient in front-end development using frameworks like React, jQuery, and Bootstrap.
-    - I also have experience with back-end development using Node.js, Laravel, and Django.
-    - In terms of database management, I am skilled in working with MySQL, MongoDB, and MariaDB. I have also worked with            content management systems, particularly WordPress, to build and manage websites.
-    - I am familiar with version control systems like Git and GitHub, and have used testing tools like Jasmine, Mocha, and         Chai to ensure the quality and functionality of my code. I am experienced in using package managers like npm and Yarn,       as well as build tools like Webpack, Grunt, and Gulp.
-    - When it comes to deployment and infrastructure, I am knowledgeable in using Docker and Kubernetes for containerization       and orchestration. I have also worked with cloud platforms such as AWS, Google Cloud, and Azure to deploy and                maintain applications.
-    - In terms of operating systems, I am comfortable working with Windows, Linux, and macOS. I have experience setting up         and configuring web servers such as Apache and Nginx.
-    - I have worked with REST and GraphQL APIs to integrate external services into applications. Additionally, I have a good       understanding of UI/UX design principles, and have used tools like Figma and Sketch to create visually appealing and         user-friendly interfaces.
-    - Throughout my career, I have collaborated with cross-functional teams using project management tools like Trello. I am       well-versed in Agile methodologies such as Scrum and Kanban, and have experience writing and executing test scripts          using tools like Selenium and Cypress for quality assurance.
-    - Outside of development, I have experience working with accounting software like QuickBooks, Tally, and SAP, as well as       proficiency in office software such as Google Suite, Microsoft Office, Dropbox, and Zoom.
-    - Overall, I am a versatile developer with a broad skill set and a passion for creating high-quality web applications. I       am eager to take on new challenges and continue to grow and learn in my career.
 
+**August - October 2023: Foundation Building and Front-End Fundamentals**
+- **August (2023):**
+  - Solidify your HTML and CSS skills.
+  - Learn basic JavaScript concepts for interactivity.
+  - Get comfortable with version control using Git.
+
+- **September (2023):**
+  - Deepen your JavaScript knowledge and explore DOM manipulation.
+  - Begin using jQuery for enhancing user experiences.
+  - Dive into responsive design principles.
+
+- **October (2023):**
+  - Master CSS preprocessors like SASS/LESS for streamlined styling.
+  - Explore UI/UX design principles using tools like Figma.
+  - Start building small projects to practice your front-end skills.
+
+**November 2023 - January 2024: Back-End Basics and Database Proficiency**
+- **November (2023):**
+  - Introduce yourself to server-side programming and Node.js.
+  - Build simple server applications and APIs.
+  - Gain a basic understanding of Express.js.
+
+- **December (2023):**
+  - Explore databases by learning SQL and basic relational concepts.
+  - Dive into MySQL and understand CRUD operations.
+  - Begin building dynamic web applications with back-end integration.
+
+- **January (2024):**
+  - Familiarize yourself with MongoDB and NoSQL databases.
+  - Learn about data modeling and how to perform CRUD operations with MongoDB.
+  - Combine your front-end and back-end skills to create a full-stack project.
+
+**February - April 2024: Front-End Frameworks and Advanced Back-End Development**
+- **February (2024):**
+  - Begin your journey into front-end frameworks with React.
+  - Learn about components, props, and state management.
+  - Start building interactive user interfaces.
+
+- **March (2024):**
+  - Deepen your React skills by exploring advanced topics.
+  - Learn about Redux for state management.
+  - Combine React with your API knowledge to create dynamic applications.
+
+- **April (2024):**
+  - Explore server-side rendering and templating engines.
+  - Learn about authentication mechanisms and security best practices.
+  - Enhance your back-end applications with middleware and advanced routing.
+
+**May - July 2024: Full-Stack Integration and DevOps Mastery**
+- **May (2024):**
+  - Focus on integrating your front-end and back-end skills.
+  - Build full-stack applications with seamless user experiences.
+  - Begin experimenting with Docker for containerization.
+
+- **June (2024):**
+  - Learn about cloud platforms like AWS, GCP, or Azure.
+  - Explore how to deploy your applications using cloud services.
+  - Understand CI/CD pipelines for automated testing and deployment.
+
+- **July (2024):**
+  - Dive deeper into containerization with Docker and Kubernetes.
+  - Implement CI/CD pipelines for smoother deployments.
+  - Optimize your applications for performance and scalability.
+
+This timeline covers the period from August 2023 to July 2024, focusing on key areas of web development. Remember that learning is an ongoing process, and you should adapt the timeline based on your progress and interests.
 ## Some Information
 
 1. I continuously practice coding and programming in various languages to stay up to date with the latest technologies and sharpen my coding skills.

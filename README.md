@@ -37,7 +37,6 @@
 - **Web Servers**                  : Apache, Nginx
 
 ## Experience
-Absolutely, let's integrate PHP into the timeline to make sure you're covering this important server-side scripting language along your journey.
 
 **August 2023 - October 2023: Building My Foundation**
 - **August (2023):**

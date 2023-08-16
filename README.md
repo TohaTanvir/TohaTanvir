@@ -33,8 +33,6 @@
 - **Package Managers**             : npm, Yarn
 - **Front-End Tools**              : Visual Studio Code
 - **Integrated Dev Environment**   : PHPStorm, XAMPP, WAMP
-- **Operating Systems**            : Windows, Linux, MacOS
-- **Web Servers**                  : Apache, Nginx
 
 ## Experience
 

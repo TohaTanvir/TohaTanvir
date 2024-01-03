@@ -103,7 +103,7 @@
   - Share insights and experiences by contributing to WordPress-related content.
   - Consider offering workshops or online courses on **WordPress development**.
 
-With these skills in your skillset, you'll be well-equipped to handle both server-side scripting and front-end development, making you a more versatile and capable web developer.
+With these skills in my skillset, I'll be well-equipped to handle both server-side scripting and front-end development, making you a more versatile and capable web developer.
 
 ## Some Information
 

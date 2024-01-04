@@ -13,7 +13,7 @@
 ## Skills
 - **Programming Languages**        : HTML, CSS, JavaScript, PHP, MySQL
 - **Front-End Development**        : React, jQuery, Bootstrap
-- **Back-End Development**         : Node.js, Laravel, Django
+- **Back-End Development**         : Node.js, Laravel
 - **Content Management System:**   : WordPress, Shopify
 - **Database**                     : MySQL, MongoDB, MariaDB
 - **Version Control**              : Git, GitHub, Bitbucket

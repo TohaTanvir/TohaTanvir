@@ -266,7 +266,6 @@ With these skills in my skillset, I'll be well-equipped to handle both server-si
 <div align="center">
 <img src='https://svgshare.com/i/tFo.svg' title='' />
 
-
 **Thank you** for visiting my GitHub profile.
 I appreciate your interest and support.
 If you have any questions or would like to connect, **feel free to reach out.** 🥰

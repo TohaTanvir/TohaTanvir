@@ -11,9 +11,9 @@
 <h5 align="proper">I am a highly skilled and motivated Full Stack Web Developer with expertise in WordPress development. I have strong problem-solving skills and a deep understanding of web development technologies. With my attention to detail and passion for creating efficient and user-friendly web solutions, I strive to deliver high-quality work that meets the client's expectations.</h5>
 
 ## Skills
-- **Programming Languages**        : HTML, CSS, JavaScript, PHP, SQL
+- **Programming Languages**        : HTML, CSS, JavaScript, PHP, MySQL
 - **Front-End Development**        : React, jQuery, Bootstrap
-- **Back-End Development**         : Node.js, Laravel, Django
+- **Back-End Development**         : Node.js, Laravel
 - **Content Management System:**   : WordPress, Shopify
 - **Database**                     : MySQL, MongoDB, MariaDB
 - **Version Control**              : Git, GitHub, Bitbucket
